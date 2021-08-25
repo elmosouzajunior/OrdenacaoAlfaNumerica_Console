@@ -1,0 +1,7 @@
+C:\Users\elmoj\source\repos\OrdenacaoAlfaNumerica_Console\OrdenacaoAlfaNumerica_Console\bin\Debug\OrdenacaoAlfaNumerica_Console.exe.config
+C:\Users\elmoj\source\repos\OrdenacaoAlfaNumerica_Console\OrdenacaoAlfaNumerica_Console\bin\Debug\OrdenacaoAlfaNumerica_Console.exe
+C:\Users\elmoj\source\repos\OrdenacaoAlfaNumerica_Console\OrdenacaoAlfaNumerica_Console\bin\Debug\OrdenacaoAlfaNumerica_Console.pdb
+C:\Users\elmoj\source\repos\OrdenacaoAlfaNumerica_Console\OrdenacaoAlfaNumerica_Console\obj\Debug\OrdenacaoAlfaNumerica_Console.csprojAssemblyReference.cache
+C:\Users\elmoj\source\repos\OrdenacaoAlfaNumerica_Console\OrdenacaoAlfaNumerica_Console\obj\Debug\OrdenacaoAlfaNumerica_Console.csproj.CoreCompileInputs.cache
+C:\Users\elmoj\source\repos\OrdenacaoAlfaNumerica_Console\OrdenacaoAlfaNumerica_Console\obj\Debug\OrdenacaoAlfaNumerica_Console.exe
+C:\Users\elmoj\source\repos\OrdenacaoAlfaNumerica_Console\OrdenacaoAlfaNumerica_Console\obj\Debug\OrdenacaoAlfaNumerica_Console.pdb
